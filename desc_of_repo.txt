@@ -1,0 +1,24 @@
+this is the repository i created for practice/ tutorial for my java training
+
+Code Used:-
+git config --global user.email ""
+ git config --global user.password " "
+ 
+https://github.com/rkcapg/task-1.git
+ 
+  
+  1.clone the git projects
+
+       git clone "https://github.com/rkcapg/task-1.git"
+
+  2.made some changes by opening the file 
+
+       git add .
+
+      (these files will moved to staging area)
+
+  3.git commit -m "initial commit"
+
+     files will be moved to unmodified area
+
+  4.git push -u origin master
